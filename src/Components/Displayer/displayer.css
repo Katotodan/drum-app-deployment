@@ -1,0 +1,11 @@
+.title{
+    width: 10rem;
+    height: 2rem;
+    box-shadow: -3px 1px 12px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 1px 12px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 1px 12px 0px rgba(0,0,0,0.75);
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+}

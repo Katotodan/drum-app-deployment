@@ -1,0 +1,14 @@
+#drum-machine{
+  width: 70%;
+  display: flex;
+  align-content: center;
+  background-color: #eee;
+  border: 0.3rem solid black;
+  border-radius: 5px;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  height: auto;
+  padding: 1rem 0.25rem;
+}
+
